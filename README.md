@@ -1,7 +1,7 @@
-# vscomponentengine
+# engine
 Criação de mini-framework com JS(modularização), HTML, SCSS. 
 
-# 🚀 VSComponentEngine + E-commerce (Fullstack Architecture)
+# 🚀 Engine + E-commerce (Fullstack Architecture)
 
 ## 🧠 VISÃO GERAL DO PROJETO
 
